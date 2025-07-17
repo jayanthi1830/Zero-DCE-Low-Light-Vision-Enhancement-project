@@ -1,4 +1,4 @@
-# Zero-DCE-Low-Light-Vision-Enhancement-project
+# Zero-DCE-Low-Light-Vision-Enhancement-Project
 
 # 🌙 Zero-DCE: Low Light Vision Enhancement
 
@@ -35,7 +35,7 @@ Low-light images suffer from poor visibility, low contrast, and noise — making
 
 ---
 
-References
+## References
 
 Guo et al. “Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement” – CVPR 2020
 
